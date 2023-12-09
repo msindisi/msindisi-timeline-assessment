@@ -13,6 +13,7 @@ This React application, built with Vite, displays a timeline of audio episodes f
 - [Usage](#usage)
 - [Features Implemented](#features-implemented)
 - [Customization](#customization)
+- [Environment Variables](#environment-variables)
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
@@ -91,6 +92,7 @@ Visit [http://localhost:5173](http://localhost:5173) in your browser to view the
 The application relies on environment variables for configuration. Ensure to set the following environment variables in your .env file:
 
 REACT_APP_API_ENDPOINT: The API endpoint for fetching audio timeline data.
+
 REACT_APP_IMAGE_BASE_URL: The base URL for fetching images.
 
 ## Acknowledgments
