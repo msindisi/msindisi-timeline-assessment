@@ -1,4 +1,3 @@
-Certainly! Since you used Vite as the build tool, let's update the README file to reflect that. Here's the modified version:
 
 ```markdown
 # Audio Timeline React App with Vite
