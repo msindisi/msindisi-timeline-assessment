@@ -29,13 +29,13 @@ To get started with this project, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/audio-timeline-react.git
+   git clone https://github.com/msindisi/msindis-timeline-assessment.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd msindisi-timeline-react
+   cd msindisi-timeline-assessment
    ```
 
 3. Install dependencies:
